@@ -1,4 +1,5 @@
 {
   "workbench.sash.hoverDelay": 600,
-  "html.format.wrapLineLength": 150
+  "html.format.wrapLineLength": 150,
+  "liveServer.settings.port": 5501
 }
